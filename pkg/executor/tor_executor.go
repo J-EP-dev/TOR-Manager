@@ -2,7 +2,7 @@ package executor
 
 import (
 	"os/exec"
-	"tormanager/internal/instance"
+	"tormanager/pkg/instance"
 )
 
 type Executor struct {

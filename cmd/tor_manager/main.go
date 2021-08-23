@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"time"
-	"tormanager/internal/executor"
-	"tormanager/internal/instance"
+	"tormanager/pkg/executor"
+	"tormanager/pkg/instance"
 )
 
 func main() {

@@ -1,6 +1,6 @@
 package executor
 
-import "tormanager/internal/instance"
+import "tormanager/pkg/instance"
 
 type TorManager struct {
 	instances map[*instance.TorInstance]bool
